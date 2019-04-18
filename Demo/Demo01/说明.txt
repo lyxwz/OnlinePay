@@ -1,0 +1,11 @@
+﻿本工程用于研究易宝支付的使用方法
+
+本工程编码方式：UTF-8
+
+本工程开发工具：Eclipse
+
+参考博客：http://blog.csdn.net/gaohuanjie/article/details/51923890
+
+注意：在运行时请将config.properties文件内的p8_Url中的IP地址改换成自己计算机上的IP地址
+
+问题遗留：在向易宝支付发送支付请求时由于使用的是重定向，即问号传参，所以存在安全隐患，解决方法见Demo02
